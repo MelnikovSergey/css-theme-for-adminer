@@ -1,5 +1,4 @@
 var books = {};
-var randomArticle = Math.round(Math.random()*100000);
 
 $(document).ready(function(){
 	$('#modal-add-book').on('click', addBookToLibrary);
@@ -13,7 +12,10 @@ function addBookToLibrary () {
 		transformArray[formData[key]['name']] = formData[key]['value'];
 	}
 
+	var randomArticle = Math.round(Math.random()*100000);
 	books[randomArticle] = transformArray;
+
+	$('#modal-add-book').modal('hide');
 
 	drawBook(randomArticle);
 }
