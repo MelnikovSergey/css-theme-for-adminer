@@ -1,4 +1,4 @@
-# Theme for Adminer  
+# CSS theme for Adminer  
 CSS theme for Adminer database tool ([www.adminer.org](http://www.adminer.org/)).    
 ![screenshot](doc/screen.png)  
 
