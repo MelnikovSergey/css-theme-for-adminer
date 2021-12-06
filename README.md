@@ -1,6 +1,7 @@
 # CSS theme for Adminer  
 CSS theme for Adminer database tool ([www.adminer.org](http://www.adminer.org/)).  
-This css theme is compatible with Adminer version 4.8.1 (and earlier versions)    
+This css theme is compatible with Adminer version 4.8.1 (and earlier versions)   
+Based on work by : Lukáš Brandejs.  
 ![screenshot](doc/screen.png)  
 
 ## How to use:  
