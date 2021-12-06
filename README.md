@@ -1,8 +1,8 @@
 # Theme for Adminer  
-Another css theme for Adminer database tool ([www.adminer.org](http://www.adminer.org/)).    
+CSS theme for Adminer database tool ([www.adminer.org](http://www.adminer.org/)).    
 ![screenshot](doc/screen.png)  
 
-## How to use  
+## How to use:  
 1. [Download](http://www.adminer.org/#download) and install Adminer tool.
 2. Copy the css file of the theme (adminer.css) to the folder with Adminer tool.
 3. Refresh the page in the browser
